@@ -1,4 +1,4 @@
-Bloggin Website made with ReactJS, ExpressJS and MongoDB.
+Blogging Website made with ReactJS, ExpressJS and MongoDB.
 <br>
 Video Demo: 
 
